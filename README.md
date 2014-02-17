@@ -12,7 +12,7 @@ WebStorm Chinese Language Pack（中文语言包）
 因为开始使用了大量的自动翻译，虽然几经校对，加上英文水平有限，应该还有大量的翻译错误在里面！
 
 
-![image](https://github.com/ewen0930/WebStorm-Chinese/blob/master/images/screen-01.jpg)
+![image](https://raw.github.com/ewen0930/WebStorm-Chinese/master/images/screen-01.jpg)
 
-![image](https://github.com/ewen0930/WebStorm-Chinese/blob/master/images/screen-02.jpg)
+![image](https://raw.github.com/ewen0930/WebStorm-Chinese/master/images/screen-02.jpg)
 
