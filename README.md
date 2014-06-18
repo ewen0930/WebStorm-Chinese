@@ -1,8 +1,5 @@
-WebStorm-Chinese
-================
 
-
-WebStorm Chinese Language Pack（中文语言包）
+## WebStorm Chinese Language Pack（中文语言包）
 
 准备尝试使用WebStorm做开发，因为英文本身也不好，所以做了这个汉化包；
 
@@ -16,3 +13,17 @@ WebStorm Chinese Language Pack（中文语言包）
 
 ![image](https://raw.github.com/ewen0930/WebStorm-Chinese/master/images/screen-02.jpg)
 
+
+## 解决 markdown 插件乱码的问题
+
+不知道是不是个别情况，在 markdown 插件预览时全是乱码。
+
+解决方法是修改插件下 `idea-markdown.jar` 的预览样式表
+
+以 win7 下 WebStorm8 为例：
+
+在 `C:\Users\TW\.WebStorm8\config\plugins\idea-markdown\lib` 里面的 `idea-markdown.jar`
+
+替换掉文件里的 `net\nicoulaj\idea\markdown\preview.css`；或者直接替换掉这个jar；
+
+![image](https://raw.github.com/ewen0930/WebStorm-Chinese/master/images/markdown-css.png)
