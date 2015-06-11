@@ -27,3 +27,6 @@
 替换掉文件里的 `net\nicoulaj\idea\markdown\preview.css`；或者直接替换掉这个jar；
 
 ![image](https://raw.github.com/ewen0930/WebStorm-Chinese/master/images/markdown-css.png)
+
+
+另有 [PhpStorm 中文语言包](https://github.com/ewen0930/PhpStorm-Chinese)
