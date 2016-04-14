@@ -29,4 +29,4 @@
 ![image](https://raw.github.com/ewen0930/WebStorm-Chinese/master/images/markdown-css.png)
 
 
-另有 [PhpStorm 中文语言包](https://github.com/ewen0930/PhpStorm-Chinese)
+同系列：[PhpStorm 中文语言包](https://github.com/ewen0930/PhpStorm-Chinese) 和 [PyCharm 中文语言包](https://github.com/ewen0930/PyCharm-Chinese)
