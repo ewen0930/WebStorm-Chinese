@@ -14,6 +14,8 @@
 ![image](https://raw.github.com/ewen0930/WebStorm-Chinese/master/images/screen-02.jpg)
 
 
+###增加了繁体中文支持（工具扫描翻译，有误还请见谅）
+
 
 同系列：[PhpStorm 中文语言包](https://github.com/ewen0930/PhpStorm-Chinese) 、 [PyCharm 中文语言包](https://github.com/ewen0930/PyCharm-Chinese) 和 [IDEA 中文语言包](https://github.com/ewen0930/IDEA-Chinese)
 
