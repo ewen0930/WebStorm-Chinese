@@ -14,19 +14,9 @@
 ![image](https://raw.github.com/ewen0930/WebStorm-Chinese/master/images/screen-02.jpg)
 
 
-## 解决 markdown 插件乱码的问题
-
-不知道是不是个别情况，在 markdown 插件预览时全是乱码。
-
-解决方法是修改插件下 `idea-markdown.jar` 的预览样式表
-
-以 win7 下 WebStorm8 为例：
-
-在 `C:\Users\TW\.WebStorm8\config\plugins\idea-markdown\lib` 里面的 `idea-markdown.jar`
-
-替换掉文件里的 `net\nicoulaj\idea\markdown\preview.css`；或者直接替换掉这个jar；
-
-![image](https://raw.github.com/ewen0930/WebStorm-Chinese/master/images/markdown-css.png)
+###增加了繁体中文支持（工具扫描翻译，有误还请见谅）
 
 
-同系列：[PhpStorm 中文语言包](https://github.com/ewen0930/PhpStorm-Chinese) 和 [PyCharm 中文语言包](https://github.com/ewen0930/PyCharm-Chinese)
+同系列：[PhpStorm 中文语言包](https://github.com/ewen0930/PhpStorm-Chinese) 、 [PyCharm 中文语言包](https://github.com/ewen0930/PyCharm-Chinese) 和 [IDEA 中文语言包](https://github.com/ewen0930/IDEA-Chinese)
+
+另外由 @pingfangx 汉化的 Android Studio 在[这里](https://github.com/pingfangx/TranslatorX/releases)
